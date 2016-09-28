@@ -1,0 +1,1 @@
+ThiS is String with Upper and lower case Letters
